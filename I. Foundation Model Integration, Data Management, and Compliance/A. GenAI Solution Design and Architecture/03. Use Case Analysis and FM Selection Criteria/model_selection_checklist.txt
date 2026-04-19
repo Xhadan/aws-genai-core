@@ -1,0 +1,10 @@
+□ Define functional requirements (task, modality, languages)
+□ Define non-functional requirements (latency, throughput, budget)
+□ Identify compliance requirements (HIPAA, GDPR, etc.)
+□ Filter models using Bedrock Model Information API
+□ Shortlist 3-7 candidate models
+□ Evaluate with actual data using Bedrock Evaluations
+□ Calculate costs at projected scale
+□ Verify regional availability
+□ Test integration and API compatibility
+□ Document selection rationale for audit
