@@ -1,0 +1,9 @@
+Claude 3.5 Sonnet/Opus:  200,000 tokens
+Claude 3 Haiku:         200,000 tokens
+Amazon Nova Pro:        300,000 tokens
+Amazon Nova Lite:        40,000 tokens
+Llama 3.1 (all sizes):  128,000 tokens
+Llama 3 (8B, 70B):        8,000 tokens
+Mistral Large:          128,000 tokens
+Amazon Titan Text:        8,000 tokens
+Qwen3-Coder:        256K-1M tokens
