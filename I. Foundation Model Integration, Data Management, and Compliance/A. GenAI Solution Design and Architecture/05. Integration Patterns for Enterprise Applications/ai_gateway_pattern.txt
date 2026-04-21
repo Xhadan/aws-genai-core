@@ -1,0 +1,3 @@
+Client → API Gateway → Lambda → Bedrock
+              ↓
+         WAF, Auth, Throttling
