@@ -1,0 +1,4 @@
+Current: 10,000 queries/month × 5 min/query × $25/hr = $20,833/month
+GenAI:   10,000 queries/month × 1 min/query × $25/hr = $4,167/month
+         + Bedrock costs (~$500/month)
+Savings: $16,166/month (78% reduction)
