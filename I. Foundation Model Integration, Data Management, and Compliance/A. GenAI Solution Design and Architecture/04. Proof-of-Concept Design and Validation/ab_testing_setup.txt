@@ -1,0 +1,5 @@
+Request → Router → Model A (50%)
+              ↓
+          Model B (50%)
+              ↓
+         Results DB → Analysis
