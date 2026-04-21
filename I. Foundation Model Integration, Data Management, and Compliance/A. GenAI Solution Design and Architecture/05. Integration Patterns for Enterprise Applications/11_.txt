@@ -1,0 +1,5 @@
+WebSocket API → Lambda → Bedrock (us-east-1)
+                    ↓ (failure)
+                Bedrock (us-west-2)
+                    ↓ (failure)
+                Cached response
