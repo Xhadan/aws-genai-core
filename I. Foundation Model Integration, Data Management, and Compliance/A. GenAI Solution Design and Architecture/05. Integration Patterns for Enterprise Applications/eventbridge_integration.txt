@@ -1,0 +1,3 @@
+S3 Upload → EventBridge → Step Functions → Bedrock
+                  ↓
+              Archive (audit)
