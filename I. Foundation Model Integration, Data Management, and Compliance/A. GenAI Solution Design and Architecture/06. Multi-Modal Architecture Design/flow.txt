@@ -1,0 +1,11 @@
+Phone Call → Amazon Connect
+                ↓
+         Transcribe (streaming)
+                ↓
+         Bedrock Agent (Claude)
+                ↓
+         Knowledge Base (RAG)
+                ↓
+         Polly (streaming)
+                ↓
+         Audio Response
