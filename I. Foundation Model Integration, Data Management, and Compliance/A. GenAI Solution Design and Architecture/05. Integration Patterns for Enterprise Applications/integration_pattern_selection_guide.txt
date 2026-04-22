@@ -1,0 +1,22 @@
+API Gateway + Lambda:
+  - Real-time synchronous requests
+  - Need auth, rate limiting, WAF
+  - Multi-tenant with usage tracking
+
+Step Functions + Bedrock:
+  - Multi-step workflows
+  - Need error handling and retries
+  - Parallel processing (Distributed Map)
+  - Long-running processes
+
+EventBridge + Lambda:
+  - Event-driven triggers (S3, etc.)
+  - Cross-account routing
+  - Audit and replay needs
+  - Loose coupling required
+
+SQS + Lambda:
+  - Buffering against traffic spikes
+  - Guaranteed message delivery
+  - Fan-out to multiple processors
+  - Async with retry/DLQ
