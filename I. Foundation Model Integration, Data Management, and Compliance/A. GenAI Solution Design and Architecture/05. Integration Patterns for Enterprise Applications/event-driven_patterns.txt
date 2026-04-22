@@ -1,0 +1,3 @@
+Account A: Event → EventBridge (central bus)
+                        ↓
+Account B: → Step Functions → Bedrock
