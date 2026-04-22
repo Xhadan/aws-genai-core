@@ -1,0 +1,12 @@
+Data Sources:
+  - S3 (documents, images)
+  - SharePoint (presentations)
+  - Confluence (mixed content)
+        ↓
+Bedrock Data Automation (preprocessing)
+        ↓
+Nova Multimodal Embeddings (vectorization)
+        ↓
+OpenSearch Serverless (vector store)
+        ↓
+Multimodal RAG queries
