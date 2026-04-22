@@ -1,0 +1,5 @@
+Full GenAI response (normal)
+    ↓ (overloaded)
+Cached similar response
+    ↓ (no cache)
+Static fallback message
