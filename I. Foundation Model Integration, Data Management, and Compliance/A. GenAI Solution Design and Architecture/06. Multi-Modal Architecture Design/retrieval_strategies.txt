@@ -1,0 +1,5 @@
+[Image] + "Explain this architecture"
+        ↓
+    Multi-modal context retrieval
+        ↓
+    LLM generates explanation
