@@ -1,0 +1,7 @@
+User Speech → Amazon Transcribe (STT)
+                    ↓
+              Bedrock (Nova/Claude)
+                    ↓
+              Amazon Polly (TTS)
+                    ↓
+              Audio Response
