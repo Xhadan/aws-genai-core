@@ -1,0 +1,7 @@
+Microphone → WebSocket → Transcribe Streaming
+                              ↓
+                         Lambda → Bedrock
+                              ↓
+                         Polly → WebSocket
+                              ↓
+                         Speaker
