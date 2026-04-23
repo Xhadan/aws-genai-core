@@ -1,0 +1,3 @@
+Request → Bedrock → Route to optimal region
+                         ↓
+              Region with available capacity
