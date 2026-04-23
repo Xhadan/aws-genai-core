@@ -1,0 +1,7 @@
+Input (any modality) → Nova Multimodal Embeddings
+                              ↓
+                      Vector (256-3072 dim)
+                              ↓
+                      OpenSearch / pgvector
+                              ↓
+                      Retrieved content (any modality)
