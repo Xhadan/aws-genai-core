@@ -1,0 +1,14 @@
+Text  Image  Audio  Video  Docs
+Claude 3.5 Sonnet       ✓     ✓ (in)   -      -     ✓
+Claude 3 Haiku          ✓     ✓ (in)   -      -     ✓
+Amazon Nova Pro         ✓     ✓ (in)   -    ✓ (in)  ✓
+Amazon Nova Lite        ✓     ✓ (in)   -    ✓ (in)  ✓
+Llama 3.2 Vision        ✓     ✓ (in)   -      -     -
+Titan Image Generator   ✓ (prompt)  -   ✓ (out)  -   -
+
+Embedding Models:
+Titan Text V2           ✓      -       -      -     -
+Titan Multimodal G1     ✓      ✓       -      -     -
+Nova Multimodal         ✓      ✓       ✓      ✓     ✓
+
+(in) = input supported, (out) = output generated
