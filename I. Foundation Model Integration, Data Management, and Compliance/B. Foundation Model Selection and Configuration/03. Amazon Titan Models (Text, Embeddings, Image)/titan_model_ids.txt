@@ -1,0 +1,12 @@
+Text Generation:
+  amazon.titan-text-premier-v1:0
+  amazon.titan-text-express-v1:0
+  amazon.titan-text-lite-v1:0
+
+Embeddings:
+  amazon.titan-embed-text-v2:0
+  amazon.titan-embed-image-v1:0  (Multimodal)
+
+Image Generation:
+  amazon.titan-image-generator-v1
+  amazon.titan-image-generator-v2:0
