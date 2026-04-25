@@ -1,0 +1,2 @@
+Documents → Chunking → Titan Embeddings → OpenSearch
+Query → Titan Embeddings → Vector Search → Titan Premier → Answer
