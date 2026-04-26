@@ -1,0 +1,14 @@
+AmazonBedrockFullAccess
+  - Full administrative access
+  - All create, read, update, delete operations
+  - Use for: Administrators
+
+AmazonBedrockReadOnly
+  - View-only access
+  - No invocation permissions
+  - Use for: Auditors, monitoring
+
+AmazonBedrockLimitedAccess
+  - Standard user access
+  - Bedrock services + KMS + networking
+  - Use for: Most users
