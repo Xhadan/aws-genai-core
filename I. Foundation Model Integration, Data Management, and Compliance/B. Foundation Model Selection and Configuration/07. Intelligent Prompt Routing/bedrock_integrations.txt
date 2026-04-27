@@ -1,0 +1,3 @@
+User Query → Agent → Router → (Haiku/Sonnet)
+                ↓
+          Knowledge Base
