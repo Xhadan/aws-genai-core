@@ -1,0 +1,2 @@
+"What's 2+2?" → Routes to Haiku (fast, cheap)
+"Analyze this legal contract for liability risks..." → Routes to Sonnet (capable)
