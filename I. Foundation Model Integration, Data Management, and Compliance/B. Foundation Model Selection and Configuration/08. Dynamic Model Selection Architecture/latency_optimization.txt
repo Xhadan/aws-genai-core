@@ -1,0 +1,10 @@
+Latency-Sensitive Apps:
+  → Test cross-region behavior
+  → Monitor P99 latency
+  → Consider geographic profiles
+  → May prefer single-region
+
+Throughput-Sensitive Apps:
+  → Use global profiles
+  → Accept latency variance
+  → Maximize availability
