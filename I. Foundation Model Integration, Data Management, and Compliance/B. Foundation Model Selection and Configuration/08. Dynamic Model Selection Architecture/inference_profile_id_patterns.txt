@@ -1,0 +1,11 @@
+System-Defined Cross-Region Profiles:
+  Geographic (US):  us.anthropic.claude-3-5-sonnet-20241022-v2:0
+  Geographic (EU):  eu.anthropic.claude-3-5-sonnet-20241022-v2:0
+  Global:           global.anthropic.claude-sonnet-4-5-20250929-v1:0
+
+Direct Model IDs (single region):
+  anthropic.claude-3-5-sonnet-20241022-v2:0
+  amazon.nova-pro-v1:0
+
+Application Profiles (custom):
+  arn:aws:bedrock:us-east-1:123456789012:inference-profile/my-profile
