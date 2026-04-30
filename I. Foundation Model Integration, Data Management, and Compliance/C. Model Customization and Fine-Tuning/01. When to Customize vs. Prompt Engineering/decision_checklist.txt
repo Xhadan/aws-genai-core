@@ -1,0 +1,19 @@
+□ Can prompt engineering alone achieve acceptable results?
+  → YES: Stop here, use prompt engineering
+  → NO: Continue
+
+□ Does the application need current/dynamic knowledge?
+  → YES: Use RAG (Bedrock Knowledge Bases)
+  → NO: Continue
+
+□ Is consistent output style/format critical?
+  → YES: Consider fine-tuning
+  → NO: Use RAG
+
+□ Do you have 1,000+ high-quality labeled examples?
+  → YES: Fine-tuning is viable
+  → NO: Use few-shot prompting or RAG
+
+□ Is the domain knowledge stable (updates < quarterly)?
+  → YES: Fine-tuning may be appropriate
+  → NO: Use RAG for knowledge component
