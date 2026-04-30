@@ -1,0 +1,6 @@
+Requirements Analysis:
+├── Output Consistency: Critical → Favors Fine-Tuning
+├── Domain Terminology: Specialized → Favors Fine-Tuning
+├── Data Availability: 10,000+ labeled examples → Sufficient
+├── Update Frequency: Quarterly → Acceptable
+└── Decision: Fine-tune Titan Text on labeled summaries
