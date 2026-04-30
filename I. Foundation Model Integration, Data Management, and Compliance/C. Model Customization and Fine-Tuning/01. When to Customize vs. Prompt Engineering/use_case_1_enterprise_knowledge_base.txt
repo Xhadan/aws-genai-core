@@ -1,0 +1,6 @@
+Requirements Analysis:
+├── Data Update Frequency: Weekly → Favors RAG
+├── Source Attribution: Required → Favors RAG
+├── Domain Complexity: Medium → RAG sufficient
+├── Budget: Limited → RAG more cost-effective
+└── Decision: Use Amazon Bedrock Knowledge Bases with OpenSearch
