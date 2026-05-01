@@ -1,0 +1,3 @@
+{"prompt": "Classify the sentiment of this review as POSITIVE, NEGATIVE, or NEUTRAL:\n\nReview: The product arrived quickly and works exactly as described. Very happy with my purchase!\n\nSentiment:", "completion": "POSITIVE"}
+{"prompt": "Classify the sentiment of this review as POSITIVE, NEGATIVE, or NEUTRAL:\n\nReview: The item broke after two days. Completely disappointed.\n\nSentiment:", "completion": "NEGATIVE"}
+{"prompt": "Classify the sentiment of this review as POSITIVE, NEGATIVE, or NEUTRAL:\n\nReview: It's okay. Nothing special but does the job.\n\nSentiment:", "completion": "NEUTRAL"}
