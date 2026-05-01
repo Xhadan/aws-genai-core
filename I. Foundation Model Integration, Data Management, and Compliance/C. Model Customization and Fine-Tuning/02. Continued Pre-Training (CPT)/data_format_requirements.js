@@ -1,0 +1,3 @@
+{"input": "The patient presented with acute myocardial infarction. Initial troponin levels were elevated at 2.3 ng/mL. ECG showed ST-elevation in leads V1-V4..."}
+{"input": "Differential diagnosis includes unstable angina, pulmonary embolism, and aortic dissection. Given the clinical presentation and biomarker profile..."}
+{"input": "Treatment protocol initiated: Dual antiplatelet therapy with aspirin 325mg and clopidogrel 600mg loading dose. Heparin infusion started..."}
