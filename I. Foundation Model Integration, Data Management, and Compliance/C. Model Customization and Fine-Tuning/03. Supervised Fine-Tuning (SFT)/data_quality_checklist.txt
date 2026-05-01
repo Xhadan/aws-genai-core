@@ -1,0 +1,10 @@
+□ Each example has both prompt and completion fields
+□ Completions demonstrate desired behavior exactly
+□ No typos or errors in completions (model learns errors too!)
+□ Prompts are similar to expected production inputs
+□ Dataset covers the full range of expected scenarios
+□ Edge cases are included
+□ No PII or sensitive data (unless required)
+□ JSON syntax is valid for every line
+□ UTF-8 encoding is used
+□ Training/validation split is stratified (if classification)
