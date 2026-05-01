@@ -1,0 +1,8 @@
+□ Data formatted as JSON Lines (.jsonl)
+□ Each line contains only "input" field (no output)
+□ Total volume >= 1 billion tokens
+□ Data uploaded to S3 bucket
+□ IAM role has read access to S3
+□ Documents are clean and domain-relevant
+□ Removed PII and sensitive information
+□ Validated JSON formatting
