@@ -1,0 +1,1 @@
+{"prompt": "Category: Billing\nCustomer: Why was I charged twice?\nAgent:", "completion": "I sincerely apologize for the duplicate charge on your account. I can see both transactions and will initiate a refund for the extra charge immediately. The refund should appear in your account within 3-5 business days. Is there anything else I can help you with today?"}
