@@ -1,0 +1,6 @@
+Full Fine-Tuning Parameters: d × k (e.g., 4096 × 4096 = 16.7M per layer)
+
+LoRA Parameters: (d × r) + (r × k) = r(d + k)
+With r: 16 × (4096 + 4096) = 131K per layer
+
+Reduction: ~99% fewer parameters per layer
