@@ -1,0 +1,14 @@
+Stage 1: Supervised Fine-Tuning (SFT)
+├── Base model + QLoRA
+├── High-quality instruction-response pairs
+└── Output: SFT Model
+
+Stage 2: Reward Model Training
+├── SFT Model + QLoRA adapter
+├── Human preference comparisons
+└── Output: Reward Model
+
+Stage 3: Policy Optimization (PPO)
+├── SFT Model as policy
+├── Reward Model for scoring
+└── Output: Aligned Model
