@@ -1,0 +1,11 @@
+□ Model Package Group exists for this use case
+□ Model artifacts uploaded to S3
+□ Inference specification defined
+□ Evaluation metrics included
+□ Training metadata captured
+  □ Training job ARN
+  □ Hyperparameters
+  □ Data version
+  □ Base model identifier
+□ Initial status set to PendingManualApproval
+□ Model Card linked (if required)
