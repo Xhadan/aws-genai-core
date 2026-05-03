@@ -1,0 +1,5 @@
+fraud-detection-models/
+├── v1.0 (Approved - Production)
+├── v1.1 (Approved - Staging)
+├── v2.0 (PendingManualApproval)
+└── v2.1 (Rejected)
