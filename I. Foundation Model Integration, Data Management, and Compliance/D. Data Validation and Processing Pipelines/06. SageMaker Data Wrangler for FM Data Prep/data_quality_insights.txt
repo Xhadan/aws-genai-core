@@ -1,0 +1,18 @@
+Data Wrangler Quality Report Contents:
+├── Summary Statistics
+│   ├── Row count
+│   ├── Column count
+│   ├── Missing value percentages
+│   └── Duplicate row count
+├── Column Analysis
+│   ├── Data type distribution
+│   ├── Unique value counts
+│   ├── String length statistics
+│   └── Value distributions
+├── Quality Issues
+│   ├── Null values
+│   ├── Outliers detected
+│   └── Invalid formats
+└── Recommendations
+    ├── Suggested transforms
+    └── Cleaning actions
