@@ -1,0 +1,10 @@
+1. Open SageMaker Studio
+2. Create new Data Wrangler flow
+3. Import data from S3 (training.jsonl)
+4. Add transformations:
+   - Parse JSON: Extract prompt and completion fields
+   - Drop duplicates: Remove duplicate prompts
+   - Filter: Keep only valid length records
+   - String transform: Normalize whitespace
+5. Analyze: Generate quality report
+6. Export: Create Processing job
