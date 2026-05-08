@@ -1,0 +1,20 @@
+Ingestion Pipeline:
+□ Document connectors configured
+□ Chunking strategy selected (fixed/semantic/hierarchical)
+□ Embedding model selected (Titan Embeddings v2)
+□ Vector store provisioned
+□ Metadata schema defined
+□ Sync schedule established
+
+Query Pipeline:
+□ Retrieval parameters tuned (k, similarity threshold)
+□ Prompt template designed
+□ Generation parameters set (temperature, max_tokens)
+□ Citation format defined
+□ Fallback behavior configured
+
+Monitoring:
+□ Retrieval metrics tracked
+□ Generation quality monitored
+□ Cost dashboard created
+□ Latency alerts configured
