@@ -1,0 +1,2 @@
+Overlap Tokens = Chunk Size * Overlap Percentage
+300 tokens * 20% = 60 token overlap
