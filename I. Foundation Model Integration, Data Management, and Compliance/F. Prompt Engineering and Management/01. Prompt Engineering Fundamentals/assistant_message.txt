@@ -1,0 +1,4 @@
+User: Explain S3 storage classes.
+Assistant: Here are the S3 storage classes:
+
+1. **S3 Standard**: [Let model continue]
