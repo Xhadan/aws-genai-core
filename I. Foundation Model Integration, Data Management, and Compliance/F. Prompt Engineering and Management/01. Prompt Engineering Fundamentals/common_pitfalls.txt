@@ -1,0 +1,7 @@
+Configure an Application Load Balancer for a REST API with:
+- 10,000 requests/second peak traffic
+- WebSocket connections for real-time features
+- HTTPS termination required
+- Path-based routing to 3 microservices
+
+Provide the key ALB settings and listener rules.
