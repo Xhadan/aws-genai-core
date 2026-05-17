@@ -1,0 +1,7 @@
+Analyze the following AWS architecture for cost optimization opportunities:
+
+<architecture>
+[Architecture description here]
+</architecture>
+
+Provide recommendations in a numbered list with estimated savings.
