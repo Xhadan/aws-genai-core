@@ -1,0 +1,5 @@
+Role: [Define persona]
+Task: [Describe what to do]
+Context: [Provide background]
+Format: [Specify output format]
+Constraints: [List limitations]
