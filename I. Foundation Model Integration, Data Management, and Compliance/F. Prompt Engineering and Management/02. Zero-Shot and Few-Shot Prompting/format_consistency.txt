@@ -1,0 +1,13 @@
+All examples should follow identical format:
+
+Example 1:
+Input: [Customer question about billing]
+Category: Billing
+Priority: Medium
+Summary: [One-sentence summary]
+
+Example 2:
+Input: [Customer question about technical issue]
+Category: Technical
+Priority: High
+Summary: [One-sentence summary]
