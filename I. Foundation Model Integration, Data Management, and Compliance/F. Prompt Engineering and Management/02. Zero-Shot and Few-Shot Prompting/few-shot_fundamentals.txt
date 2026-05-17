@@ -1,0 +1,13 @@
+[Optional instruction]
+
+Example 1:
+Input: [example input]
+Output: [example output]
+
+Example 2:
+Input: [example input]
+Output: [example output]
+
+Actual task:
+Input: [real input]
+Output:
