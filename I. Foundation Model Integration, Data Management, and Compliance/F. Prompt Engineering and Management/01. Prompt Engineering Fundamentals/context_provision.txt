@@ -1,0 +1,3 @@
+Context: You are helping a startup migrate from on-premises to AWS. They have limited budget, peak traffic during US business hours, and require HIPAA compliance.
+
+Task: Recommend a compute strategy for their web application.
