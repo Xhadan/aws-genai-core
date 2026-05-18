@@ -1,0 +1,12 @@
+Option A analysis:
+- Pros: [...]
+- Cons: [...]
+- Score: [...]
+
+Option B analysis:
+- Pros: [...]
+- Cons: [...]
+- Score: [...]
+
+Comparison: [...]
+Recommendation: [...]
