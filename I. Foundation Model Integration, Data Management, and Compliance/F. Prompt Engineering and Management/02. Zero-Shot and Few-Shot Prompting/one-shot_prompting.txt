@@ -1,0 +1,12 @@
+Convert the AWS service description to a haiku.
+
+Example:
+Service: Amazon S3
+Haiku:
+Objects stored with care
+Buckets hold your data safe
+Scalable storage
+
+Now convert:
+Service: AWS Lambda
+Haiku:
