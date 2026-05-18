@@ -1,0 +1,5 @@
+Solve this problem with numbered steps:
+1. State what we know
+2. State what we need to find
+3-N. Show each calculation step
+Final: State the answer clearly
