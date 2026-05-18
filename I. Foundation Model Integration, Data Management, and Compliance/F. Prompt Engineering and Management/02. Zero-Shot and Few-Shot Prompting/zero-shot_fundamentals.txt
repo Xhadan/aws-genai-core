@@ -1,0 +1,5 @@
+Classify the sentiment of the following review as positive, negative, or neutral:
+
+Review: "The product arrived quickly but the quality was disappointing."
+
+Sentiment:
