@@ -1,0 +1,18 @@
+Example 1:
+Question: [Problem 1]
+Answer: Let me work through this:
+Step 1: [First reasoning step]
+Step 2: [Second reasoning step]
+Step 3: [Third reasoning step]
+Therefore, [final answer].
+
+Example 2:
+Question: [Problem 2]
+Answer: Let me work through this:
+Step 1: [First reasoning step]
+Step 2: [Second reasoning step]
+Therefore, [final answer].
+
+Your question:
+Question: [Actual problem]
+Answer:
