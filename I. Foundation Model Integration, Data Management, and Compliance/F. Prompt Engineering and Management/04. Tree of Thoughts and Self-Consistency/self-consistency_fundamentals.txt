@@ -1,0 +1,10 @@
+Query: Complex math problem
+
+Response 1: [reasoning] → Answer: 42
+Response 2: [reasoning] → Answer: 42
+Response 3: [reasoning] → Answer: 38
+Response 4: [reasoning] → Answer: 42
+Response 5: [reasoning] → Answer: 42
+
+Majority vote: 42 (4/5 responses)
+Final Answer: 42
