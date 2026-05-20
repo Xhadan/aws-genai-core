@@ -1,0 +1,5 @@
+Audience: The primary audience is the CTO and VP of
+Engineering who will approve the migration budget.
+Secondary audience includes the technical team leads
+who will implement the plan. Assume familiarity with
+AWS basics but explain advanced architectural patterns.
