@@ -1,0 +1,7 @@
+Chain-of-Thought:
+Problem → Step1 → Step2 → Step3 → Answer
+
+Tree of Thoughts:
+                    ┌→ Step1a → Step2a → Answer A
+Problem → Step1 ────┤
+                    └→ Step1b → Step2b → Answer B
