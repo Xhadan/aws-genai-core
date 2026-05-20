@@ -1,0 +1,11 @@
+Standard Prompting:
+Q: "If John has 5 apples and gives 2 to Mary, then buys 3 more, how many does he have?"
+A: "6 apples"
+
+Chain-of-Thought:
+Q: "If John has 5 apples and gives 2 to Mary, then buys 3 more, how many does he have?"
+A: "Let me work through this step by step:
+1. John starts with 5 apples
+2. He gives 2 to Mary: 5 - 2 = 3 apples
+3. He buys 3 more: 3 + 3 = 6 apples
+Therefore, John has 6 apples."
