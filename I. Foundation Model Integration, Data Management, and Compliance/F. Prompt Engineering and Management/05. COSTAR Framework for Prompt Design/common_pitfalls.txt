@@ -1,0 +1,3 @@
+Audience: Non-technical product managers who need to understand
+cost implications. Familiar with basic cloud concepts but not
+specific AWS services.
