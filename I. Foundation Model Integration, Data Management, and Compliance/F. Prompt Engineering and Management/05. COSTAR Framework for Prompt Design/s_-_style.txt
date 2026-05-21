@@ -1,0 +1,5 @@
+Style: Write in a technical documentation style with:
+- Clear section headers
+- Bullet points for key information
+- Code examples where relevant
+- AWS service names properly formatted
