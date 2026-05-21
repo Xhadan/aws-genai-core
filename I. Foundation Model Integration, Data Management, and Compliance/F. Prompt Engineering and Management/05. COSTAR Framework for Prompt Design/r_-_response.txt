@@ -1,0 +1,8 @@
+Response: Provide the migration plan as a structured
+document with:
+- Executive Summary (200 words max)
+- Architecture Diagram (describe in text)
+- Phase breakdown table (Phase, Duration, Services, Risks)
+- Detailed recommendations (bullet points)
+- Cost estimates (table format)
+- Total length: 1500-2000 words
