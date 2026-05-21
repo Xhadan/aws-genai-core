@@ -1,0 +1,5 @@
+Objective: Create a migration plan that outlines:
+1. Which components to containerize first
+2. AWS services to use for each microservice
+3. A phased timeline over 6 months
+4. Risk mitigation strategies for each phase
