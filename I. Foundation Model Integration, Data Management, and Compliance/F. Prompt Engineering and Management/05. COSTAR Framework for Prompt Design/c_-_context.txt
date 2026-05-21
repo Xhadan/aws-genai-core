@@ -1,0 +1,6 @@
+Context: You are assisting a mid-size e-commerce company
+that currently runs on AWS. They have a monolithic
+application on EC2 instances and want to modernize
+to a microservices architecture. Their peak traffic
+occurs during Black Friday sales (10x normal load).
+Current monthly AWS spend is $50,000.
