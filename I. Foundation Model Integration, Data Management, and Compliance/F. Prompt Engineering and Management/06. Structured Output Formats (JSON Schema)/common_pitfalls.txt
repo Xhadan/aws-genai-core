@@ -1,0 +1,8 @@
+**Why it fails**: Direct `json.loads()` fails on markdown-wrapped JSON.
+
+**Correct Approach**:
+```python
+# Strip markdown code blocks before parsing
+if "```json" in text:
+    text = text.split("```json")[1].split("```")[0]
+data = json.loads(text.strip())
