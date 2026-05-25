@@ -1,0 +1,11 @@
+User Query
+    ↓
+[Step 1: Intent Classification] → "technical_question"
+    ↓
+[Step 2: Context Retrieval] → Relevant documents
+    ↓
+[Step 3: Answer Generation] → Technical response
+    ↓
+[Step 4: Response Validation] → Verified answer
+    ↓
+Final Response
