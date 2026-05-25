@@ -1,0 +1,5 @@
+# Latest version
+arn:aws:bedrock:region:account:prompt/prompt-id
+
+# Specific version
+arn:aws:bedrock:region:account:prompt/prompt-id:version
