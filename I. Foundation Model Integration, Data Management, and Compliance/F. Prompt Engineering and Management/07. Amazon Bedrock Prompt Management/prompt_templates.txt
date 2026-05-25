@@ -1,0 +1,7 @@
+Analyze the following {{content_type}} and provide:
+1. Key themes (maximum {{max_themes}})
+2. Sentiment analysis
+3. Summary in {{word_count}} words
+
+Content:
+{{content}}
