@@ -1,0 +1,3 @@
+Developer → PR Review → Automated Tests →
+  Human Review → Staging Deploy →
+    Production Approval → Production Deploy
