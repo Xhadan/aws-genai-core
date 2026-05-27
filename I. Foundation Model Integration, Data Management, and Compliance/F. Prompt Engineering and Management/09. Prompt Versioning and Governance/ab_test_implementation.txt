@@ -1,0 +1,16 @@
+test_name: "support-response-v2-test"
+status: "active"
+start_date: "2024-01-15"
+end_date: "2024-01-29"
+versions:
+  version_a:
+    prompt_arn: "arn:aws:bedrock:...:prompt/abc:1"
+    percentage: 50
+  version_b:
+    prompt_arn: "arn:aws:bedrock:...:prompt/abc:2"
+    percentage: 50
+success_metrics:
+  - name: "quality_score"
+    min_improvement: 0.05
+  - name: "latency_p95"
+    max_regression: 100  # ms
