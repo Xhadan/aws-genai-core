@@ -1,0 +1,4 @@
+description: |
+  Retrieves complete order details including status, items, shipping info,
+  and estimated delivery. Use when user asks about their order, wants to
+  track a shipment, or needs order information.
