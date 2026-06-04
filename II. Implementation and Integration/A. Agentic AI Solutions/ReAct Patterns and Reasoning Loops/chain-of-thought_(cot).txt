@@ -1,0 +1,2 @@
+"The user wants to know their order status. I need to look up order
+ORD-12345. I should use the getOrderStatus tool with this order ID."
