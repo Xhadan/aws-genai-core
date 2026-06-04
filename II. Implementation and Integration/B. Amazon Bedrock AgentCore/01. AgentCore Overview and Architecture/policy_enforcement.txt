@@ -1,0 +1,34 @@
+// Allow agents to read customer data but not modify it
+permit (
+    principal,
+    action = Action::"invoke_tool",
+    resource = Tool::"search_customers"
+);
+
+// Forbid deletion operations
+forbid (
+    principal,
+    action = Action::"invoke_tool",
+    resource
+) when {
+    resource.operation = "delete"
+};
+
+// Allow ticket creation only during business hours
+permit (
+    principal,
+    action = Action::"invoke_tool",
+    resource = Tool::"create_ticket"
+) when {
+    context.time.hour >= 9 && context.time.hour <= 17
+};
+
+// Restrict high-value transactions by user role
+forbid (
+    principal,
+    action = Action::"invoke_tool",
+    resource = Tool::"process_payment"
+) when {
+    context.request.amount > 10000 &&
+    principal.role != "manager"
+};
