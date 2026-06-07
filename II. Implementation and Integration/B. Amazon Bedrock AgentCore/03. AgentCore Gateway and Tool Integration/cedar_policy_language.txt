@@ -1,0 +1,5 @@
+// Permission grants
+permit (principal, action, resource) when { conditions };
+
+// Prohibitions (always override permits)
+forbid (principal, action, resource) when { conditions };
