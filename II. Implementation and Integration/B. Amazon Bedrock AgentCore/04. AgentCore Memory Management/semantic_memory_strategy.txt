@@ -1,0 +1,7 @@
+Conversation: "My flight to Seattle is on March 15th"
+Semantic Memory: {
+    "entity": "flight",
+    "destination": "Seattle",
+    "date": "March 15th",
+    "associated_user": "user-123"
+}
