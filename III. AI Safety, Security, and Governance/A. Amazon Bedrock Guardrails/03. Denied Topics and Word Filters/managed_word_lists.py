@@ -1,0 +1,5 @@
+wordPolicyConfig={
+    'managedWordListsConfig': [
+        {'type': 'PROFANITY'}
+    ]
+}
