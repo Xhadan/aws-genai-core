@@ -1,0 +1,2 @@
+If [condition A] then [condition B] must also be true.
+[Field A] and [Field B] cannot both be [value].
