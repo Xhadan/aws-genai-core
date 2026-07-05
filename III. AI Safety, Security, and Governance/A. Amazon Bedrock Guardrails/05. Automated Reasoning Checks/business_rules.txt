@@ -1,0 +1,2 @@
+[Action] is only permitted when [conditions].
+[Value] must be within [range] unless [exception].
