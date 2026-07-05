@@ -1,0 +1,2 @@
+All [entity type] must include [required fields].
+[Entity] with [condition] requires [additional requirements].
