@@ -1,0 +1,10 @@
+Natural Language: "Auto insurance claims must include
+vehicle make, model, and year. Claims for vehicles
+older than 25 years require additional documentation."
+
+Formal Logic:
+∀claim: valid(claim) →
+  has(claim, vehicle_make) ∧
+  has(claim, vehicle_model) ∧
+  has(claim, vehicle_year) ∧
+  (age(claim.vehicle) > 25 → has(claim, additional_docs))
