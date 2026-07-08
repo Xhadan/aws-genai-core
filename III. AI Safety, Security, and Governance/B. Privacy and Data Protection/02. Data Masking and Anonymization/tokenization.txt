@@ -1,0 +1,2 @@
+SSN: 123-45-6789 -> Token: TKN_ABC123XYZ
+Stored mapping: TKN_ABC123XYZ -> 123-45-6789 (encrypted)
