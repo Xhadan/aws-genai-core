@@ -1,0 +1,2 @@
+Inbound: TCP 443 from sg-application (your app)
+Outbound: All traffic (default)
