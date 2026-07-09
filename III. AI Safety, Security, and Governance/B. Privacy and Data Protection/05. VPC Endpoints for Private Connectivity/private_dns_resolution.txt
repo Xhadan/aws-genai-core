@@ -1,0 +1,2 @@
+bedrock-runtime.us-east-1.amazonaws.com
+  -> 10.0.1.45 (Private IP in your VPC)
