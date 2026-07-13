@@ -1,0 +1,2 @@
+arn:aws:bedrock:REGION::foundation-model/MODEL_ID
+arn:aws:bedrock:REGION:ACCOUNT:custom-model/MODEL_NAME
