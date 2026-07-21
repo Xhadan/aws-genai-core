@@ -1,0 +1,4 @@
+Examples:
+"Great product, fast shipping" -> positive
+"Broken on arrival, no refund" -> negative
+"Works as expected" -> neutral
