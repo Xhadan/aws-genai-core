@@ -1,0 +1,1 @@
+{"sentiment": "positive", "confidence": 0.95, "recommend": true}
