@@ -1,0 +1,3 @@
+With 200K context window at $0.003/1K input tokens:
+Full context = $0.60 per request
+10K context = $0.03 per request (95% savings)
