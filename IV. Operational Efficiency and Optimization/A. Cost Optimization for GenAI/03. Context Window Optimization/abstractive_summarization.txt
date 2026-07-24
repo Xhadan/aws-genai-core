@@ -1,0 +1,3 @@
+Summarize the following in under 200 words,
+preserving all key facts, decisions, and action items:
+{content}
