@@ -1,0 +1,3 @@
+Examples:
+"Unhappy with shipping, won't recommend" -> negative
+"Good quality but overpriced" -> neutral
