@@ -1,0 +1,5 @@
+Prompt -> Embedding -> Vector Search -> Cache Lookup
+                                    |
+                              If no match:
+                                    v
+                              Model Invocation -> Cache Store
