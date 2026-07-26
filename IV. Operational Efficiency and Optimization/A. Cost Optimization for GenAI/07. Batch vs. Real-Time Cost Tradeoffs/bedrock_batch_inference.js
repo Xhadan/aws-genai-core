@@ -1,0 +1,2 @@
+{"recordId": "1", "modelInput": {"messages": [{"role": "user", "content": [{"text": "prompt 1"}]}]}}
+{"recordId": "2", "modelInput": {"messages": [{"role": "user", "content": [{"text": "prompt 2"}]}]}}
