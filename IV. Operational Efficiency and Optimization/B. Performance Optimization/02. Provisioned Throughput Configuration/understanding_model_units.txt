@@ -1,0 +1,2 @@
+Required MUs = Peak Tokens/Minute ÷ MU Capacity
+Example: 500K tokens/min ÷ 100K per MU = 5 MUs
