@@ -1,0 +1,1 @@
+TTLT = TTFT + (Output Tokens × Token Generation Time)
