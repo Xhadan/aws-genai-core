@@ -1,0 +1,1 @@
+Client <-> API Gateway WebSocket <-> Lambda <-> Bedrock (SSE)
