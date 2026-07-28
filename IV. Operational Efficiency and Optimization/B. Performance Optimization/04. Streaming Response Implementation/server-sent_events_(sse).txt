@@ -1,0 +1,8 @@
+event: contentBlockDelta
+data: {"delta": {"text": "Hello"}}
+
+event: contentBlockDelta
+data: {"delta": {"text": " world"}}
+
+event: messageStop
+data: {}
