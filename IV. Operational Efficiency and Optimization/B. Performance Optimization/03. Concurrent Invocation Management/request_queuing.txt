@@ -1,0 +1,4 @@
+Client -> API Gateway -> SQS -> Lambda -> Bedrock
+                           |
+                           v
+                        DLQ (failures)
