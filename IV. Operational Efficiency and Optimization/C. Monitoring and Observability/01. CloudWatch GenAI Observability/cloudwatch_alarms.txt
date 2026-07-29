@@ -1,0 +1,3 @@
+Metric: InputTokenCount + OutputTokenCount > threshold
+Period: 1 hour
+Evaluation: 1 period
