@@ -1,0 +1,5 @@
+Budget: $10,000/month for Bedrock
+Alerts:
+- 50% forecasted: Email notification
+- 80% actual: Email + SNS
+- 100% actual: SNS trigger Lambda (cost controls)
