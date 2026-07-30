@@ -1,0 +1,2 @@
+Output Efficiency = OutputTokenCount / InputTokenCount
+Lower ratio = more efficient (concise responses)
