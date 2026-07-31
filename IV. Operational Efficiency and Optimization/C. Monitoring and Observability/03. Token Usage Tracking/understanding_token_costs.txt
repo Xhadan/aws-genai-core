@@ -1,0 +1,2 @@
+Daily requests × Cost per request × 30 days
+100K requests × $0.000875 × 30 = $2,625/month
