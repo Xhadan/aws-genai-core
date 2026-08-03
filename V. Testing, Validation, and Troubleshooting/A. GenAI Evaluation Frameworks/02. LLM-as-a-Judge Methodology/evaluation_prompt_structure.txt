@@ -1,0 +1,5 @@
+[Task Description]
+[Scoring Rubric]
+[Context/Question]
+[Response to Evaluate]
+[Output Instructions]
