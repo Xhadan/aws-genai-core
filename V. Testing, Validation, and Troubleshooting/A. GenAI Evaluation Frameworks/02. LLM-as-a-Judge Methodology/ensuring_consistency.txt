@@ -1,0 +1,3 @@
+Example of a 5-rating response: [example]
+Example of a 3-rating response: [example]
+Example of a 1-rating response: [example]
