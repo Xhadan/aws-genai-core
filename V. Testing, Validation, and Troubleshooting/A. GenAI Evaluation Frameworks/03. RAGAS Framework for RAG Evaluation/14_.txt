@@ -1,0 +1,3 @@
+Low Context Metrics + High Gen Metrics = Fix retrieval
+High Context Metrics + Low Gen Metrics = Fix prompts
+Low All Metrics = Systemic issues
