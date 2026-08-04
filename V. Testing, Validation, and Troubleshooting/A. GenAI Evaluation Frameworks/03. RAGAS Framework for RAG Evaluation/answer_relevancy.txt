@@ -1,0 +1,1 @@
+Answer Relevancy = avg(cosine_similarity(original_q, generated_q))
