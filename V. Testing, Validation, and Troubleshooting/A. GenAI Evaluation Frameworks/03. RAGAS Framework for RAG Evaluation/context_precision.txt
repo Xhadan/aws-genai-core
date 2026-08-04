@@ -1,0 +1,1 @@
+Context Precision = sum(precision@k * relevance@k) / sum(relevance@k)
