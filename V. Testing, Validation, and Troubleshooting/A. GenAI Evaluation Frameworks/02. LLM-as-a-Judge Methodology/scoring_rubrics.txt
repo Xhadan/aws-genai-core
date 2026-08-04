@@ -1,0 +1,2 @@
+0 - Does not meet criteria
+1 - Meets criteria
