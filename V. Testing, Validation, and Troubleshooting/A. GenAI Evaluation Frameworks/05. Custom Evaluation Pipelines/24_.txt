@@ -1,0 +1,4 @@
+CodePipeline → EventBridge → Step Functions → Quality Gate
+                                                ↓
+                              Pass → Continue Deploy
+                              Fail → Block + Alert
