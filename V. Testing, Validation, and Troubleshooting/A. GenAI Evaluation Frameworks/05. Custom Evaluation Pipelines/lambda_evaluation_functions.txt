@@ -1,0 +1,9 @@
+Small Functions:
+  - Single responsibility
+  - Easier testing
+  - Flexible composition
+
+Large Functions:
+  - Reduced orchestration
+  - Lower latency
+  - Simpler state management
