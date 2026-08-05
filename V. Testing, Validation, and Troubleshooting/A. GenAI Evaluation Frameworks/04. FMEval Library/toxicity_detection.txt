@@ -1,0 +1,1 @@
+Toxicity Rate = (Toxic Responses) / (Total Responses)
