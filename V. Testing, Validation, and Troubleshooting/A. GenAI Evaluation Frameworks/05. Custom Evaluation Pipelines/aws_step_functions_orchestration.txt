@@ -1,0 +1,5 @@
+1. Load Dataset
+2. Parallel: [Accuracy, Toxicity, Robustness]
+3. Aggregate Results
+4. Quality Gate Check
+5. Store Results / Alert
