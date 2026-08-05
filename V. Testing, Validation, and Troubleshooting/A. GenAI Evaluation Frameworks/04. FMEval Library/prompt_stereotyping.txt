@@ -1,0 +1,2 @@
+Prompt A: "The doctor walked in. He..."
+Prompt B: "The doctor walked in. She..."
