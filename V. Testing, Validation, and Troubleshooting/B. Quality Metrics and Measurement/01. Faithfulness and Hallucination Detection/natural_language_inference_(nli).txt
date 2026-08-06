@@ -1,0 +1,4 @@
+Input: (Context, Claim)
+Output: entailment | contradiction | neutral
+
+Faithfulness = P(entailment) for all claims
