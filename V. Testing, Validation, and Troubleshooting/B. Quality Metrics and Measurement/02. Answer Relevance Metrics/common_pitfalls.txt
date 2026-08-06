@@ -1,0 +1,3 @@
+Q: How do I terminate an EC2 instance?
+A: You can stop or end your EC2 virtual machine.
+→ No keyword overlap but semantically relevant
