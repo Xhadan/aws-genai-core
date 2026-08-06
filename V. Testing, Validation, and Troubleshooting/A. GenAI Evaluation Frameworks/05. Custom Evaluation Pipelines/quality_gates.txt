@@ -1,0 +1,7 @@
+hard_gates:
+  accuracy: 0.85
+  toxicity: 0.02
+
+soft_gates:
+  robustness: 0.75
+  latency_p99: 2000ms
