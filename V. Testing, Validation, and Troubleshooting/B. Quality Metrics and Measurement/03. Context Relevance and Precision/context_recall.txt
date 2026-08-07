@@ -1,0 +1,7 @@
+Question: "List S3 storage classes"
+Ground Truth: "Standard, Intelligent-Tiering, Glacier, Glacier Deep Archive"
+
+Retrieved Context mentions: Standard, Intelligent-Tiering, Glacier
+Missing: Glacier Deep Archive
+
+Context Recall = 3/4 = 0.75
