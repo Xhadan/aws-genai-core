@@ -1,0 +1,12 @@
+Question: {question}
+Answer: {answer}
+
+Rate the relevance of this answer to the question:
+1 - Completely irrelevant
+2 - Mentions related topics but doesn't answer
+3 - Partially answers the question
+4 - Mostly answers with minor gaps
+5 - Fully addresses the question
+
+Score: ___
+Reasoning: ___
