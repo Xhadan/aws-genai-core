@@ -1,0 +1,6 @@
+Q: What port does HTTPS use?
+A: HTTP/HTTPS are protocols for web communication.
+   HTTP uses port 80 and was created in 1991.
+   HTTPS uses port 443 and adds SSL/TLS encryption.
+   SSL was invented by Netscape...
+→ Contains answer but buried in irrelevant info
