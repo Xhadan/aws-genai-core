@@ -1,0 +1,9 @@
+Q: What are the benefits and drawbacks of serverless?
+
+Complete Answer:
+- Benefits: auto-scaling, pay-per-use, no server management
+- Drawbacks: cold starts, vendor lock-in, debugging complexity
+
+Incomplete Answer:
+- Benefits: auto-scaling, pay-per-use
+→ Missing drawbacks portion
