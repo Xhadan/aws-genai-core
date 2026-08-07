@@ -1,0 +1,9 @@
+Question: "What is S3 storage pricing?"
+
+Retrieved Chunks:
+1. "S3 pricing is based on storage used..." ✓ Relevant
+2. "S3 offers 99.999999999% durability..." ✗ Not relevant
+3. "S3 Standard costs $0.023 per GB..." ✓ Relevant
+4. "S3 buckets can be created in any region..." ✗ Not relevant
+
+Context Precision = 2/4 = 0.50
