@@ -1,0 +1,5 @@
+Use Case          | Recommended Chunk Size
+------------------|----------------------
+Factual Q&A       | 256-512 tokens
+Analytical        | 512-1024 tokens
+Document Summary  | 1024+ tokens
