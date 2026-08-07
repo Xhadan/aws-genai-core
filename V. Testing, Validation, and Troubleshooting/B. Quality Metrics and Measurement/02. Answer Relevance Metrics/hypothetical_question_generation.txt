@@ -1,0 +1,8 @@
+Original Q: "How do I configure S3 bucket encryption?"
+Answer: "Enable SSE-S3 in bucket properties..."
+
+Generated Questions:
+- "How to enable S3 encryption?" (similarity: 0.92)
+- "What are S3 encryption settings?" (similarity: 0.88)
+
+Relevance = avg([0.92, 0.88]) = 0.90
