@@ -1,0 +1,1 @@
+Completeness = Addressed Components / Total Components
