@@ -1,0 +1,9 @@
+Q: "Explain S3 storage classes"
+
+Response Analysis:
+- Standard: Comprehensive (1.0)
+- Intelligent-Tiering: Adequate (0.67)
+- Glacier: Superficial (0.33)
+- Deep Archive: Not mentioned (0)
+
+Completeness = (1.0 + 0.67 + 0.33 + 0) / 4 = 0.50
