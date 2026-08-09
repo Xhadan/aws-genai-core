@@ -1,0 +1,3 @@
+Ground Truth: "Lambda timeout maximum is 900 seconds"
+Response: "Lambda functions can run for up to 15 minutes"
+→ Same fact, different wording - should be correct
