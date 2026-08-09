@@ -1,0 +1,5 @@
+F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+
+Where:
+- Precision = Correct statements / All statements in response
+- Recall = Covered facts / All facts in ground truth
