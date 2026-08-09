@@ -1,0 +1,6 @@
+Ground Truth: "Lambda supports Python 3.9, 3.10, and 3.11"
+Response: "Lambda supports Python versions 3.9 through 3.11"
+
+Semantic Similarity: 0.95 (same meaning)
+Factual F1: 1.0 (all versions mentioned)
+Correctness: 0.975
