@@ -1,0 +1,7 @@
+Position 1: Relevant ✓ (weight: 1.0)
+Position 2: Not relevant ✗
+Position 3: Relevant ✓ (weight: 0.33)
+Position 4: Relevant ✓ (weight: 0.25)
+
+Standard Precision: 3/4 = 0.75
+Weighted Precision considers position importance
