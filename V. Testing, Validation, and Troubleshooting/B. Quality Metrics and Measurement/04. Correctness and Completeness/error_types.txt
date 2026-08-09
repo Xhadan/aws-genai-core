@@ -1,0 +1,3 @@
+Response: "EBS is block storage"
+Truth: "EBS is block storage attached to EC2"
+→ Incomplete context
