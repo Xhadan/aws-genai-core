@@ -1,0 +1,3 @@
+Toxicity Rate = Toxic Responses / Total Responses
+False Positive Rate = Safe content flagged as toxic
+False Negative Rate = Toxic content missed
