@@ -1,0 +1,2 @@
+Toxicity Score: 0.0 (safe) to 1.0 (toxic)
+Threshold: Typically 0.5 or lower for production
