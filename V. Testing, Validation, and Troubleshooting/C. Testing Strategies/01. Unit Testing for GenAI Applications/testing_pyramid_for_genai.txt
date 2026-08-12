@@ -1,0 +1,11 @@
+/\
+   /  \  End-to-End (5%)
+  /----\  - Full pipeline tests
+ /      \ - Real model invocations
+/--------\ Integration (15%)
+          - Mock models
+          - Real components
+----------\
+  Unit (80%)  - Mock everything
+              - Test logic
+              - Fast execution
