@@ -1,0 +1,7 @@
+Scenario: User request → Agent reasoning → Action execution → Response
+
+Verify:
+- Correct action group invoked
+- Lambda receives proper parameters
+- Response incorporates action results
+- Multi-turn context maintained
