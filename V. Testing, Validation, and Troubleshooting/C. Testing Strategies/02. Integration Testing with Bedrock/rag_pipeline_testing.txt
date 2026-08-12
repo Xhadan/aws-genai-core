@@ -1,0 +1,7 @@
+Scenario: User query → Retrieved context → Generated answer
+
+Verify:
+- Relevant documents are retrieved
+- Context is properly formatted
+- Answer addresses the question
+- Citations are accurate
