@@ -1,0 +1,3 @@
+Variant A: 5 retrieved chunks
+Variant B: 10 retrieved chunks
+Hypothesis: More context improves completeness
