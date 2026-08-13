@@ -1,0 +1,4 @@
+- Separate AWS account or tagged resources
+- Test-specific knowledge bases
+- Isolated vector stores
+- Cost tracking and limits
