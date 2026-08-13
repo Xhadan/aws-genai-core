@@ -1,0 +1,5 @@
+Variant A: "You are a helpful assistant..."
+Variant B: "You are an expert AWS consultant..."
+
+Hypothesis: Domain-specific system prompt
+           improves relevance for AWS queries
