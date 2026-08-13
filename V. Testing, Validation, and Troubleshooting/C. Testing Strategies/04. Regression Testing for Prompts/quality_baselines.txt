@@ -1,0 +1,8 @@
+baseline_v1.2:
+  date: 2024-01-15
+  test_set: prod-queries-v1
+  metrics:
+    relevance: 0.87
+    faithfulness: 0.92
+    latency_p95: 1200ms
+  sample_count: 500
