@@ -1,0 +1,5 @@
+Variant A: Claude 3.5 Sonnet
+Variant B: Claude 3 Opus
+
+Hypothesis: Sonnet provides comparable quality
+           at lower cost and latency
