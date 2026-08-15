@@ -1,0 +1,1 @@
+Regression if: p-value < 0.05 AND new_mean < baseline_mean
